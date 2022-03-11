@@ -1,0 +1,62 @@
+<head>
+<title>Contact From and Contact List Page</title>
+<style>
+table {
+
+border-collapse: collapse;
+width: 100%;
+} td, th{
+
+border:1px solid; text-align:center;
+
+padding:8px;
+
+
+
+</style>
+
+</head>
+
+<body>
+
+<p style="text-align: center""></h3></h3><b> Add Contacts<b></b></p><br>
+
+Name <input type="text" ><br><br>
+
+Ph no<input type="text" ><br><br>
+
+Email <input type="email" ><br><br>
+
+
+<input type="button" value="save"><br><br> <p style="text-align: center""></h3></h3><b>My
+
+Contact<b></b></p><br>
+
+
+<table boder="1">
+
+<tr> <th>Name</th>
+
+<th>phno</th>
+
+<th>Email</th>
+
+</tr> <tr>
+
+<td>Viratkohli</td>
+
+<td>5q682</td>
+
+<td>vk@gmail.com</td>
+
+</tr> <tr>
+
+<td>Dhoni</td> <td>4567</td>
+
+<td>dh@gmail.com</td>
+
+</tr> </table>
+
+
+
+</body> </html>
